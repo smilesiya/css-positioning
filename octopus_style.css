@@ -1,0 +1,22 @@
+#container{ 
+position:relative;
+margin:0 auto;
+}
+.face{
+	position:absolute;
+	top:50px;
+	left:200px;
+	z-index: -1
+}
+.hat{
+	position:relative;
+	top:5px;
+	left:40px;
+}
+.glasses{
+	position:relative;
+	top:40px;
+	left:240px;
+}
+
+    
